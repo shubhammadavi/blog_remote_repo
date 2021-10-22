@@ -1,0 +1,39 @@
+.content {
+  width: 60%;
+  float: left;
+  padding: 0 0 0 30px;
+  background: rgb(104, 231, 102);
+  height: 100%;
+}
+.sidebar {
+  width: 40%;
+  float: right;
+  padding-left: 10px;
+  background: rgb(230, 121, 225);
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+  border-bottom: 1px solid brown;
+  padding-bottom: 10px;
+}
+
+body {
+  background: rgb(104, 231, 102);
+}
+#date {
+  color: brown;
+  font-size: 12px;
+  font-style: italic;
+}
+#ch {
+  color: brown;
+  font-size: 30px;
+  font-style: italic;
+}
+.cb {
+  color: brown;
+  font-size: 20px;
+  font-style: italic;
+}
